@@ -3,3 +3,13 @@ C:\Users\joblo\OneDrive\Skrivebord\backend\.net code along 0309\obj\Debug\net8.0
 C:\Users\joblo\OneDrive\Skrivebord\backend\.net code along 0309\obj\Debug\net8.0\.net code along 0309.AssemblyInfo.cs
 C:\Users\joblo\OneDrive\Skrivebord\backend\.net code along 0309\obj\Debug\net8.0\.net code along 0309.csproj.CoreCompileInputs.cache
 C:\Users\joblo\OneDrive\Skrivebord\backend\.net code along 0309\obj\Debug\net8.0\.net code along 0309.sourcelink.json
+C:\Users\joblo\OneDrive\Skrivebord\backend\.net code along 0309\bin\Debug\net8.0\.net code along 0309.exe
+C:\Users\joblo\OneDrive\Skrivebord\backend\.net code along 0309\bin\Debug\net8.0\.net code along 0309.deps.json
+C:\Users\joblo\OneDrive\Skrivebord\backend\.net code along 0309\bin\Debug\net8.0\.net code along 0309.runtimeconfig.json
+C:\Users\joblo\OneDrive\Skrivebord\backend\.net code along 0309\bin\Debug\net8.0\.net code along 0309.dll
+C:\Users\joblo\OneDrive\Skrivebord\backend\.net code along 0309\bin\Debug\net8.0\.net code along 0309.pdb
+C:\Users\joblo\OneDrive\Skrivebord\backend\.net code along 0309\obj\Debug\net8.0\.net code along 0309.dll
+C:\Users\joblo\OneDrive\Skrivebord\backend\.net code along 0309\obj\Debug\net8.0\refint\.net code along 0309.dll
+C:\Users\joblo\OneDrive\Skrivebord\backend\.net code along 0309\obj\Debug\net8.0\.net code along 0309.pdb
+C:\Users\joblo\OneDrive\Skrivebord\backend\.net code along 0309\obj\Debug\net8.0\.net code along 0309.genruntimeconfig.cache
+C:\Users\joblo\OneDrive\Skrivebord\backend\.net code along 0309\obj\Debug\net8.0\ref\.net code along 0309.dll
