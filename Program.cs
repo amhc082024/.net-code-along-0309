@@ -31,6 +31,13 @@ class Program
             Console.WriteLine(item);
         }
 
+        string[] Legions = ["BloodAngels", "SpaceWolves", "SonsofHorus", "WorldEaters"];
+    
+        foreach (string item in Legions)
+        {
+            Console.WriteLine(item);
+        }
+
 
 
 
