@@ -38,6 +38,17 @@ class Program
             Console.WriteLine(item);
         }
 
+        List<string> Primarchs = new List<string>();
+        Primarchs.Add("Horus");
+        Primarchs.Add("Angron");
+        Primarchs.Add("Dorn");
+        Primarchs.Add("Corax");
+        Primarchs.Add("Sanguinius");
+        Primarchs.Add("Guilliman");
+        foreach (string i in Primarchs) {
+            Console.WriteLine(i);
+        }
+
 
 
 
