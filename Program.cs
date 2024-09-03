@@ -6,4 +6,10 @@ class Program
     {
         Console.WriteLine("Hello, World!");
     }
+    {
+        int myNumber = 1;
+        Console.WriteLine(myNumber);
+
+        
+    }
 }

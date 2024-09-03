@@ -1,0 +1,5 @@
+C:\Users\joblo\OneDrive\Skrivebord\backend\.net code along 0309\obj\Debug\net8.0\.net code along 0309.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joblo\OneDrive\Skrivebord\backend\.net code along 0309\obj\Debug\net8.0\.net code along 0309.AssemblyInfoInputs.cache
+C:\Users\joblo\OneDrive\Skrivebord\backend\.net code along 0309\obj\Debug\net8.0\.net code along 0309.AssemblyInfo.cs
+C:\Users\joblo\OneDrive\Skrivebord\backend\.net code along 0309\obj\Debug\net8.0\.net code along 0309.csproj.CoreCompileInputs.cache
+C:\Users\joblo\OneDrive\Skrivebord\backend\.net code along 0309\obj\Debug\net8.0\.net code along 0309.sourcelink.json
